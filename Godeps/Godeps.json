@@ -1,0 +1,101 @@
+{
+	"ImportPath": "github.com/bitly/oauth2_proxy",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "cloud.google.com/go/compute/metadata",
+			"Comment": "v0.10.0-7-g0dcfca5",
+			"Rev": "0dcfca594c1c27abc8ef55a03210e34214f59292"
+		},
+		{
+			"ImportPath": "github.com/18F/hmacauth",
+			"Comment": "1.0.1",
+			"Rev": "9232a6386b737d7d1e5c1c6e817aa48d5d8ee7cd"
+		},
+		{
+			"ImportPath": "github.com/BurntSushi/toml",
+			"Comment": "v0.3.0-7-ga368813",
+			"Rev": "a368813c5e648fee92e5f6c30e3944ff9d5e8895"
+		},
+		{
+			"ImportPath": "github.com/bitly/go-simplejson",
+			"Comment": "v0.5.0-4-gda1a892",
+			"Rev": "da1a8928f709389522c8023062a3739f3b4af419"
+		},
+		{
+			"ImportPath": "github.com/bmizerany/assert",
+			"Comment": "release.r60-7-gb7ed37b",
+			"Rev": "b7ed37b82869576c289d7d97fb2bbd8b64a0cb28"
+		},
+		{
+			"ImportPath": "github.com/kr/pretty",
+			"Comment": "go.weekly.2011-12-22-36-gcfb55aa",
+			"Rev": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4"
+		},
+		{
+			"ImportPath": "github.com/kr/text",
+			"Rev": "7cafcd837844e784b526369c9bce262804aebc60"
+		},
+		{
+			"ImportPath": "github.com/mreiferson/go-options",
+			"Rev": "77551d20752b54535462404ad9d877ebdb26e53d"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "054b33e6527139ad5b1ec2f6232c3b175bd9a30c"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "054b33e6527139ad5b1ec2f6232c3b175bd9a30c"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "cce311a261e6fcf29de72ca96827bdb0b7d9c9e6"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/google",
+			"Rev": "cce311a261e6fcf29de72ca96827bdb0b7d9c9e6"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "cce311a261e6fcf29de72ca96827bdb0b7d9c9e6"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/jws",
+			"Rev": "cce311a261e6fcf29de72ca96827bdb0b7d9c9e6"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/jwt",
+			"Rev": "cce311a261e6fcf29de72ca96827bdb0b7d9c9e6"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "6faef541c73732f438fb660a212750a9ba9f9362"
+		},
+		{
+			"ImportPath": "google.golang.org/api/admin/directory/v1",
+			"Rev": "e6586c9293b9d514c7f5d5076731ec977cff1be6"
+		},
+		{
+			"ImportPath": "google.golang.org/api/gensupport",
+			"Rev": "e6586c9293b9d514c7f5d5076731ec977cff1be6"
+		},
+		{
+			"ImportPath": "google.golang.org/api/googleapi",
+			"Rev": "e6586c9293b9d514c7f5d5076731ec977cff1be6"
+		},
+		{
+			"ImportPath": "google.golang.org/api/googleapi/internal/uritemplates",
+			"Rev": "e6586c9293b9d514c7f5d5076731ec977cff1be6"
+		},
+		{
+			"ImportPath": "gopkg.in/fsnotify.v1",
+			"Comment": "v1.4.2",
+			"Rev": "629574ca2a5df945712d3079857300b5e4da0236"
+		}
+	]
+}
